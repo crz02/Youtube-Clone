@@ -1,1 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" preserveAspectRatio="xMidYMid meet" focusable="false" class="style-scope yt-icon" style="pointer-events: none; display: block; width: 100%; height: 100%;"><g class="style-scope yt-icon"><path d="M21,6H3V5h18V6z M21,11H3v1h18V11z M21,17H3v1h18V17z" class="style-scope yt-icon"></path></g></svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" focusable="false" aria-label="Menu">
+  <rect x="3" y="5" width="18" height="2" rx="1" fill="#ffffff"/>
+  <rect x="3" y="11" width="18" height="2" rx="1" fill="#ffffff"/>
+  <rect x="3" y="17" width="18" height="2" rx="1" fill="#ffffff"/>
+</svg>
